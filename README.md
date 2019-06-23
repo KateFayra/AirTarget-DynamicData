@@ -10,6 +10,6 @@ You can view the video I created demoing our simulator for the class, and my wri
 
 A direct link to the video is also available below:
 
-[![Alt text](https://njlochner.com/airtarget.png)](https://www.youtube.com/watch?v=mrpqh8ZRLp4)
+[![Alt text](http://njlochner.com/airtarget.png)](https://www.youtube.com/watch?v=mrpqh8ZRLp4)
 
 For more information such as Reia's final paper, or full source code of the simulator, please contact me or Reia. I do not want to share without her permission.
