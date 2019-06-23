@@ -11,5 +11,6 @@ For Reia's graduate studies, a controlled experiment was performed with the simu
 You can view the video I created demoing our simulator for the class, and my writeup containing an explanation of my work on the project here: http://njlochner.com/airtarget.html
 
 A direct link to the video is also available here: https://www.youtube.com/watch?v=mrpqh8ZRLp4
+The writeup is also available in this repository: https://github.com/njlochner/AirTarget-DynamicData/blob/master/AirTarget-Writeup.pdf
 
 For more information such as Reia's final paper, or full source code of the simulator, please contact me or Reia. I do not want to share without her permission.
