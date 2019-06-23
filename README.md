@@ -8,8 +8,8 @@ For Reia's graduate studies, a controlled experiment was performed with the simu
 
 You can view the video I created demoing our simulator for the class, and my writeup containing an explanation of my work on the project here: http://njlochner.com/airtarget.html
 
-A direct link to the video is also available below:
+A direct link to the video is also available here: https://www.youtube.com/watch?v=mrpqh8ZRLp4
 
-[![Alt text](http://njlochner.com/airtarget.png)](https://www.youtube.com/watch?v=mrpqh8ZRLp4)
+![alt text](http://njlochner.com/airtarget.png "Logo Title Text 1")
 
 For more information such as Reia's final paper, or full source code of the simulator, please contact me or Reia. I do not want to share without her permission.
